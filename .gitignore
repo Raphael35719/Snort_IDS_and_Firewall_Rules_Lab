@@ -1,5 +1,3 @@
 # Local packet captures and potentially sensitive evidence
-*.pcap
 *.pcapng
-*.exe
 *.log
